@@ -123,3 +123,18 @@ gcloud run deploy fitcoach-frontend \
   --allow-unauthenticated \
   --set-env-vars AGENT_ENGINE_RESOURCE_NAME="projects/<PROJECT_ID>/locations/us-east1/reasoningEngines/<REASONING_ENGINE_ID>",AGENT_DIRECTORY="app"
 ```
+
+### Results ( Image generation | Video generation )
+<img src="exercise_05bf4a7d.jpg" alt="Exercise demonstration" width="500">
+______________________________________________________________________________
+<img src="exercise_38a11946.jpg" alt="Exercise demonstration" width="500">
+______________________________________________________________________________
+<img src="exercise_6f83e109.jpg" alt="Exercise demonstration" width="500">
+______________________________________________________________________________
+
+### Preacher Curl Video Generation for Biceps
+<p align="left">
+  🎬 <a href="exercise_video_1a774046.mp4">
+    <strong>Preacher Curl Video Generation for Biceps</strong>
+  </a>
+</p>
