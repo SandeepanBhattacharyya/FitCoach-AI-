@@ -7,7 +7,9 @@
 ## 🌟 Overview
 
 **FitCoach AI** is an intelligent fitness companion designed to create personalized workout plans, track exercise history, calculate key fitness metrics, generate exercise media, and recall user preferences across sessions. It features a responsive, dark-mode web chat interface powered by a FastAPI proxy and rich A2UI surface components.
-
+<p align="center">
+  <img src="fitcoach-demo.gif" alt="FitCoach AI Demo" width="800">
+</p>
 ---
 
 ## 🛠️ Implemented Tools & Capabilities
